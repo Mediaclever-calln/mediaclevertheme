@@ -1,0 +1,2 @@
+# mediaclevertheme
+My theme
